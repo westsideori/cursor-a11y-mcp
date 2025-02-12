@@ -1,0 +1,19 @@
+{
+  "name": "cursor-a11y-mcp",
+  "version": "2.0.1",
+  "description": "MCP Server with A11y Tool for accessibility testing",
+  "type": "module",
+  "scripts": {
+    "build": "mkdir -p build && cp -r src/* build/ && chmod 755 build/index.js",
+    "start": "node build/index.js",
+    "start:test-site": "cd test-site && PORT=5000 npm start"
+  },
+  "bin": {
+    "cursor-tools": "./build/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.4.1",
+    "puppeteer": "^24.1.1",
+    "zod": "^3.24.1"
+  }
+}

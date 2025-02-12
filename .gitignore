@@ -1,0 +1,7 @@
+# Build directories
+/build/
+test-site/build/
+
+# Dependencies
+/node_modules/
+test-site/node_modules/
