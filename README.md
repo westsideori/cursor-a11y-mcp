@@ -108,7 +108,9 @@ This will start the test site at `http://localhost:5000`
 
 ## License
 
-This project is private and not intended for public distribution.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Version
 
