@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides accessibility testing capabilities through a command-line interface. This tool helps identify accessibility issues in web applications using axe-core and Puppeteer.
 
+<a href="https://glama.ai/mcp/servers/mik2l7a1tw">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/mik2l7a1tw/badge" alt="Cursor A11y MCP server" />
+</a>
+
 ## Features
 
 - Run accessibility tests on any URL or local development server
