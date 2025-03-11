@@ -1,6 +1,6 @@
 # Cursor A11y MCP
 
-A Model Context Protocol (MCP) server that provides accessibility testing capabilities through a command-line interface. This tool helps identify accessibility issues in web applications using axe-core and Puppeteer.
+A Model Context Protocol (MCP) server that provides accessibility testing capabilities AI agents. This tool helps identify accessibility issues in web applications using axe-core and Puppeteer.
 
 ## Features
 
@@ -105,8 +105,6 @@ This will start the test site at `http://localhost:5000`
 3. Composer will prompt you to run the tool
 4. After running the tool, you will see the accessibility violations in the response, and code actions to fix the violations
 5. The Composer may prompt you to use the tool again to confirm that the violations are fixed
-
-## License
 
 ## License
 
